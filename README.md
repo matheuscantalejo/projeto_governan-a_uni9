@@ -1,4 +1,4 @@
-# projeto_governan-a_uni9
+# projeto_governanca_uni9
 
 *Universidade Nove de Julho*
 *Projeto de Governança Estratégica*
